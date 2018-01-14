@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "FinishSymptomsIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Symptom",
+          "type": "LIST_OF_SYMPTOMS"
+        }
+      ],
+      "intent": "MySymptomIsIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
