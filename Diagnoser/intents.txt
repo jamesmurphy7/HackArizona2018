@@ -1,0 +1,10 @@
+FinishSymptomsIntent nope
+FinishSymptomsIntent no
+FinishSymptomsIntent no more symptoms
+FinishSymptomsIntent I do not
+FinishSymptomsIntent I don't
+FinishSymptomsIntent I don't have any more symptoms
+MySymptomIsIntent my symptom is {Symptom}
+MySymptomIsIntent I have a {Symptom}
+MySymptomIsIntent I have {Symptom}
+MySymptomIsIntent {Symptom}
